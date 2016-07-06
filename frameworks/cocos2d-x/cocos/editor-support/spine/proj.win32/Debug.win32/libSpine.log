@@ -1,0 +1,8 @@
+﻿生成启动时间为 2016/7/6 11:44:56。
+     1>项目“E:\YunDing\frameworks\cocos2d-x\cocos\editor-support\spine\proj.win32\libSpine.vcxproj”在节点 2 上(Clean 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : 文件“e:\yunding\frameworks\cocos2d-x\cocos\editor-support\spine\proj.win32\debug.win32\attachmentloader.obj”正由另一进程使用，因此该进程无法访问此文件。
+     1>已完成生成项目“E:\YunDing\frameworks\cocos2d-x\cocos\editor-support\spine\proj.win32\libSpine.vcxproj”(Clean 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.21
